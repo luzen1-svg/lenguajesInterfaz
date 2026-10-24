@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="15_StringHexadecimal/15_StringHexadecimal.vcxproj" Id="ffc35855-e5fe-4a2a-af8e-23f04df513ed" />
+</Solution>

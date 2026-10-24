@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HolaMundoConIrvine/HolaMundoConIrvine.vcxproj" Id="0294bd10-5e73-44d8-abf3-84111f826b25" />
+</Solution>

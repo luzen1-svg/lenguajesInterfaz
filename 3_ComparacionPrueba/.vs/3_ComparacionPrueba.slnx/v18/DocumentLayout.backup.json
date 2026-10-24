@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\3_ComparacionPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D57D149-50D2-468A-9EFA-E00FF0176499}|3_ComparacionPrueba\\3_ComparacionPrueba.vcxproj|C:\\Irvine\\3_ComparacionPrueba\\3_ComparacionPrueba\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D57D149-50D2-468A-9EFA-E00FF0176499}|3_ComparacionPrueba\\3_ComparacionPrueba.vcxproj|solutionrelative:3_ComparacionPrueba\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\3_ComparacionPrueba\\3_ComparacionPrueba\\First.asm",
+              "RelativeDocumentMoniker": "3_ComparacionPrueba\\First.asm",
+              "ToolTip": "C:\\Irvine\\3_ComparacionPrueba\\3_ComparacionPrueba\\First.asm",
+              "RelativeToolTip": "3_ComparacionPrueba\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T00:56:02.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\CiclosNumericos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B805D6A-CC9C-43A2-95BA-B88FE93DDDC9}|CiclosNumericos\\CiclosNumericos.vcxproj|C:\\Irvine\\CiclosNumericos\\CiclosNumericos\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B805D6A-CC9C-43A2-95BA-B88FE93DDDC9}|CiclosNumericos\\CiclosNumericos.vcxproj|solutionrelative:CiclosNumericos\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\CiclosNumericos\\CiclosNumericos\\First.asm",
+              "RelativeDocumentMoniker": "CiclosNumericos\\First.asm",
+              "ToolTip": "C:\\Irvine\\CiclosNumericos\\CiclosNumericos\\First.asm",
+              "RelativeToolTip": "CiclosNumericos\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T00:43:20.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

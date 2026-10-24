@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\11_PushPop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C4C6C2-2C68-416E-AC38-9AE54E97A287}|11_PushPop\\11_PushPop.vcxproj|C:\\Irvine\\11_PushPop\\11_PushPop\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0C4C6C2-2C68-416E-AC38-9AE54E97A287}|11_PushPop\\11_PushPop.vcxproj|solutionrelative:11_PushPop\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\11_PushPop\\11_PushPop\\First.asm",
+              "RelativeDocumentMoniker": "11_PushPop\\First.asm",
+              "ToolTip": "C:\\Irvine\\11_PushPop\\11_PushPop\\First.asm",
+              "RelativeToolTip": "11_PushPop\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T02:10:31.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

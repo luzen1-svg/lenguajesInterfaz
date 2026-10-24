@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\4_CapturaDespliegueMensaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11594C41-2AF2-4977-9846-83DF6950CECE}|4_CapturaDespliegueMensaje\\4_CapturaDespliegueMensaje.vcxproj|C:\\Irvine\\4_CapturaDespliegueMensaje\\4_CapturaDespliegueMensaje\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11594C41-2AF2-4977-9846-83DF6950CECE}|4_CapturaDespliegueMensaje\\4_CapturaDespliegueMensaje.vcxproj|solutionrelative:4_CapturaDespliegueMensaje\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\4_CapturaDespliegueMensaje\\4_CapturaDespliegueMensaje\\First.asm",
+              "RelativeDocumentMoniker": "4_CapturaDespliegueMensaje\\First.asm",
+              "ToolTip": "C:\\Irvine\\4_CapturaDespliegueMensaje\\4_CapturaDespliegueMensaje\\First.asm",
+              "RelativeToolTip": "4_CapturaDespliegueMensaje\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T00:36:01.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

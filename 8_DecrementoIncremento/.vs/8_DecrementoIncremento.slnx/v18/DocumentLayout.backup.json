@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\8_DecrementoIncremento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633CFA1F-5053-4C3C-9A29-A804B64A7C47}|8_DecrementoIncremento\\8_DecrementoIncremento.vcxproj|C:\\Irvine\\8_DecrementoIncremento\\8_DecrementoIncremento\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633CFA1F-5053-4C3C-9A29-A804B64A7C47}|8_DecrementoIncremento\\8_DecrementoIncremento.vcxproj|solutionrelative:8_DecrementoIncremento\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\8_DecrementoIncremento\\8_DecrementoIncremento\\First.asm",
+              "RelativeDocumentMoniker": "8_DecrementoIncremento\\First.asm",
+              "ToolTip": "C:\\Irvine\\8_DecrementoIncremento\\8_DecrementoIncremento\\First.asm",
+              "RelativeToolTip": "8_DecrementoIncremento\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T01:33:43.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

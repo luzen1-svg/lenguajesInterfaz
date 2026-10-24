@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LoteAlmacenadoClase/LoteAlmacenadoClase.vcxproj" Id="834dd945-d110-492f-bd12-cec80dbd0fb6" />
+</Solution>

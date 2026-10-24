@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="8_DecrementoIncremento/8_DecrementoIncremento.vcxproj" Id="633cfa1f-5053-4c3c-9a29-a804b64a7c47" />
+</Solution>

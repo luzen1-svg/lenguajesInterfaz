@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="9_ValidacionFormato/9_ValidacionFormato.vcxproj" Id="a9f58ddd-e507-4889-b249-d68785cc347d" />
+</Solution>

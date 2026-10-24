@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="14_DesplazamientoRotacion/14_DesplazamientoRotacion.vcxproj" Id="108d77f0-2358-4780-a8d2-5844664fdff1" />
+</Solution>

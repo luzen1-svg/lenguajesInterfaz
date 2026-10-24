@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="13_OperacionesLogicas/13_OperacionesLogicas.vcxproj" Id="80319b2f-d265-4616-a89e-9f481d6f4bbb" />
+</Solution>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Irvine\\While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3653787B-70D6-4F12-BE31-CF6AF9DA8E3A}|While\\While.vcxproj|C:\\Irvine\\While\\While\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3653787B-70D6-4F12-BE31-CF6AF9DA8E3A}|While\\While.vcxproj|solutionrelative:While\\First.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.asm",
+              "DocumentMoniker": "C:\\Irvine\\While\\While\\First.asm",
+              "RelativeDocumentMoniker": "While\\First.asm",
+              "ToolTip": "C:\\Irvine\\While\\While\\First.asm",
+              "RelativeToolTip": "While\\First.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T03:43:24.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
